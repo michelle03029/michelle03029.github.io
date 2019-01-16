@@ -1179,7 +1179,7 @@ body {
 }
 
 .item-3 {
-  background-image: url("../img/project-3.jpg");
+  background-image: url("../img/portal-home.png");
 }
 
 .item-4 {
@@ -1196,7 +1196,7 @@ body {
 }
 
 .item-6 {
-  background-image: url("../img/project-6.jpg");
+  background-image: url("../img/art-3.jpg");
 }
 @media (min-width: 40em) {
   #layout-grid:checked ~ .rk-portfolio .item-6 {
@@ -1272,7 +1272,7 @@ body {
   -webkit-align-items: flex-end;
   -ms-flex-align: end;
           align-items: flex-end;
-  height: 100vh;
+  height: 50vh;
   padding-bottom: 1.5rem;
   width: 100%;
 }
@@ -1356,12 +1356,12 @@ body {
 }
 @media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min--moz-device-pixel-ratio: 1.5), only screen and (-o-min-device-pixel-ratio: 3/2), only screen and (min-device-pixel-ratio: 1.5) {
   .item-inside-1 {
-    background-image: url("../img/bg-2.jpg");
+    background-image: url("../img/filler.png");
   }
 }
 @media (min-width: 40em) {
   .item-inside-1 {
-    background-size: 130%;
+    background-size: 100%;
   }
 }
 
