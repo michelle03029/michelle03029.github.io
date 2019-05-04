@@ -1196,7 +1196,7 @@ body {
 }
 
 .item-6 {
-  background-image: url("../img/art-3.jpg");
+  background-image: url("../img/ign-sleek-mockup.png");
 }
 @media (min-width: 40em) {
   #layout-grid:checked ~ .rk-portfolio .item-6 {
